@@ -14,4 +14,4 @@ estableció un tratado en el cual se disponía que los visigodos se asentaran en
 
 ## Referencia
 
-[ National Geographic España] (https://historia.nationalgeographic.com.es/temas/visigodos) 
+[ National Geographic España](https://historia.nationalgeographic.com.es/temas/visigodos) 
