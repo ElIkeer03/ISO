@@ -1,6 +1,6 @@
 # VISIGODOS
 
-![visigodos](img/visigodos.jpg)
+![visigodos](img/visigodos.jpg width="300" height="200")
 
 Los visigodos fueron distintos pueblos bárbaros que, sin encontrar oposición, se
 adentraron en Hispania. Este hecho coincide con el declive del Imperio romano. Se 
